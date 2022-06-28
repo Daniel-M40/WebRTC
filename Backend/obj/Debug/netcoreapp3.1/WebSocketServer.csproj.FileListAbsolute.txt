@@ -1,0 +1,230 @@
+C:\Users\Chris\source\repos\WebSocketServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Chris\source\repos\WebSocketServer\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Chris\source\repos\WebSocketServer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Chris\source\repos\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.exe
+C:\Users\Chris\source\repos\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.deps.json
+C:\Users\Chris\source\repos\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.runtimeconfig.json
+C:\Users\Chris\source\repos\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.runtimeconfig.dev.json
+C:\Users\Chris\source\repos\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.dll
+C:\Users\Chris\source\repos\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.pdb
+C:\Users\Chris\source\repos\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.Views.dll
+C:\Users\Chris\source\repos\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.Views.pdb
+C:\Users\Chris\source\repos\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.AssemblyInfoInputs.cache
+C:\Users\Chris\source\repos\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.AssemblyInfo.cs
+C:\Users\Chris\source\repos\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Chris\source\repos\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.RazorAssemblyInfo.cache
+C:\Users\Chris\source\repos\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.RazorAssemblyInfo.cs
+C:\Users\Chris\source\repos\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.TagHelpers.input.cache
+C:\Users\Chris\source\repos\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.TagHelpers.output.cache
+C:\Users\Chris\source\repos\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.RazorCoreGenerate.cache
+C:\Users\Chris\source\repos\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Chris\source\repos\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Chris\source\repos\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Chris\source\repos\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Chris\source\repos\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Chris\source\repos\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Chris\source\repos\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Chris\source\repos\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.RazorTargetAssemblyInfo.cache
+C:\Users\Chris\source\repos\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.RazorTargetAssemblyInfo.cs
+C:\Users\Chris\source\repos\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.Views.pdb
+C:\Users\Chris\source\repos\WebSocketServer\obj\Debug\netcoreapp3.1\staticwebassets\WebSocketServer.StaticWebAssets.Manifest.cache
+C:\Users\Chris\source\repos\WebSocketServer\obj\Debug\netcoreapp3.1\staticwebassets\WebSocketServer.StaticWebAssets.xml
+C:\Users\Chris\source\repos\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.dll
+C:\Users\Chris\source\repos\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.pdb
+C:\Users\Chris\source\repos\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.genruntimeconfig.cache
+C:\Users\Chris\source\repos\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.csproj.CopyComplete
+C:\Users\Chris\source\repos\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.csproj.AssemblyReference.cache
+C:\Users\Chris\source\repos\WebSocketServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\bin\Debug\netcoreapp3.1\appsettings.json
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.exe
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.deps.json
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.runtimeconfig.json
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.runtimeconfig.dev.json
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.dll
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.pdb
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.Views.dll
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.Views.pdb
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.csprojAssemblyReference.cache
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.AssemblyInfoInputs.cache
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.AssemblyInfo.cs
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.csproj.CoreCompileInputs.cache
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.MvcApplicationPartsAssemblyInfo.cache
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.RazorAssemblyInfo.cache
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.RazorAssemblyInfo.cs
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.TagHelpers.input.cache
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.TagHelpers.output.cache
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.RazorCoreGenerate.cache
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.RazorTargetAssemblyInfo.cache
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.RazorTargetAssemblyInfo.cs
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.Views.pdb
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.csproj.CopyComplete
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\obj\Debug\netcoreapp3.1\staticwebassets\WebSocketServer.StaticWebAssets.Manifest.cache
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\obj\Debug\netcoreapp3.1\staticwebassets\WebSocketServer.StaticWebAssets.xml
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.dll
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.pdb
+\\X035-vStore-02\Users\HOLC04\Workspace\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.genruntimeconfig.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.exe
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.deps.json
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.runtimeconfig.json
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.runtimeconfig.dev.json
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.pdb
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.Views.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.Views.pdb
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.csproj.AssemblyReference.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.AssemblyInfoInputs.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.AssemblyInfo.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.RazorAssemblyInfo.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.RazorAssemblyInfo.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\staticwebassets\WebSocketServer.StaticWebAssets.Manifest.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\staticwebassets\WebSocketServer.StaticWebAssets.xml
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebSocketServer.styles.css
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.TagHelpers.input.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.TagHelpers.output.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.RazorCoreGenerate.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.RazorTargetAssemblyInfo.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.RazorTargetAssemblyInfo.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.Views.pdb
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.pdb
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.genruntimeconfig.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.csproj.CopyComplete
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.exe
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.deps.json
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.runtimeconfig.json
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.runtimeconfig.dev.json
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.pdb
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.Views.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.Views.pdb
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.csprojAssemblyReference.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.AssemblyInfoInputs.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.AssemblyInfo.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.RazorAssemblyInfo.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.RazorAssemblyInfo.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.TagHelpers.input.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.TagHelpers.output.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.RazorCoreGenerate.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.RazorTargetAssemblyInfo.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.RazorTargetAssemblyInfo.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.Views.pdb
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.csproj.CopyComplete
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\staticwebassets\WebSocketServer.StaticWebAssets.Manifest.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\staticwebassets\WebSocketServer.StaticWebAssets.xml
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.pdb
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Messaging Application\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.genruntimeconfig.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.exe
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.deps.json
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.runtimeconfig.json
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.runtimeconfig.dev.json
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.pdb
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.Views.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.Views.pdb
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.csproj.AssemblyReference.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.AssemblyInfoInputs.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.AssemblyInfo.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.RazorAssemblyInfo.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.RazorAssemblyInfo.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\staticwebassets\WebSocketServer.StaticWebAssets.Manifest.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\staticwebassets\WebSocketServer.StaticWebAssets.xml
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebSocketServer.styles.css
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.TagHelpers.input.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.TagHelpers.output.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.RazorCoreGenerate.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.RazorTargetAssemblyInfo.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.RazorTargetAssemblyInfo.cs
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.Views.pdb
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.dll
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.pdb
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.genruntimeconfig.cache
+C:\Users\Daniel Moir\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.csproj.CopyComplete
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.exe
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.deps.json
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.runtimeconfig.json
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.runtimeconfig.dev.json
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.pdb
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.Views.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\bin\Debug\netcoreapp3.1\WebSocketServer.Views.pdb
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.csprojAssemblyReference.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.AssemblyInfoInputs.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.AssemblyInfo.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.csproj.CoreCompileInputs.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.RazorAssemblyInfo.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.RazorAssemblyInfo.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.TagHelpers.input.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.TagHelpers.output.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.RazorCoreGenerate.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.RazorTargetAssemblyInfo.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.RazorTargetAssemblyInfo.cs
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.Views.pdb
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.csproj.CopyComplete
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\staticwebassets\WebSocketServer.StaticWebAssets.Manifest.cache
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\staticwebassets\WebSocketServer.StaticWebAssets.xml
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.dll
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.pdb
+C:\Users\MOI19182471\OneDrive - Runshaw College\Backend\Stream Video\WebSocketServer\obj\Debug\netcoreapp3.1\WebSocketServer.genruntimeconfig.cache
