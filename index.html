@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title>WebSocket JS Client</title>
+    <style>
+        video {
+            max-width: 500px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>WebSocket JS Client</h1>
+    <p id="stateLabel">Ready to connect</p>
+    <p id="connIDLabel">ConnID: N/a</p>
+    <p id="currentlyConnected">Connected Users: </p>
+    <div>
+        <label for="connectionUrl">WebSocket Server Url</label>
+        <input id="connectionUrl" />
+        <button id="connectButton" type="submit">Connect</button>
+        <button id="closeButton" disabled>Close Socket</button>
+    </div>
+    <p></p>
+    <div>
+        <button id="stream" type="submit" disabled>Stream</button>
+    </div>
+    <p></p>
+    <div>
+        <label for="recipents">Recipent ID:</label>
+        <input id="recipents" disabled />
+    </div>
+    <p></p>
+    <h2>Communication Log</h2>
+    <table style="width: 800px">
+        <thead>
+            <tr>
+                <td styles="width: 100px">From</td>
+                <td styles="width: 100px">To</td>
+                <td>Data</td>
+            </tr>
+        </thead>
+        <tbody id="commsLog">
+
+        </tbody>
+
+    </table>
+    <video id="video" controls>
+        <source type="video/mp4">
+    </video>
+    <video id="client" controls>
+        <source id="source" src="" type="video/mp4">
+    </video>
+    <p></p>
+</body>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+    crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="websocketAsync.js"></script>
+<script src="script.js"></script>
+
+</html>
